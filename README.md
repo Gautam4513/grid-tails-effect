@@ -1,1 +1,1 @@
-<video src="/demo.mp4" autoplay mute controls type="mp4"></video>
+<a href="/demo.mp4">demo vedio</a>
